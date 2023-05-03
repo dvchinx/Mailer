@@ -1,9 +1,9 @@
 # Mailer
-View of the Proyect:
+**View of the Proyect:**
 
 `https://youtu.be/1nF2SprvDQg`
 
-Code by: 
+**Code by:**
 
 `dvchinx`
 
